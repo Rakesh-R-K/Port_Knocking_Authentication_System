@@ -113,6 +113,7 @@ ssh username@<server-ip>
 - Use reverse knock sequence to manually close access
 - Log invalid knock attempts and alert admin
 - Combine with SSH key-based authentication for extra security
+- Added a python script for server to track the requests
 
 ---
 
