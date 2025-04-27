@@ -100,9 +100,8 @@ ssh username@<server-ip>
 ```
 📁 port-knocking-auth
 ├── README.md
-├── knockd.conf (optional: your custom config)
-├── screenshots/ (optional: usage demo)
-└── docs/ (optional: detailed documentation)
+├── port_knock_server.py ( to track the knock requests sent by the client )
+└── port_knocking_documentation.py ( follow the steps to setup the server and client machine )
 ```
 
 ---
